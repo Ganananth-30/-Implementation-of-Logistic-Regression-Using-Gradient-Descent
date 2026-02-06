@@ -9,8 +9,8 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1. Load the placement dataset and preprocess the data.
-2.Initialize weights, bias, learning rate, and iterations.
-3.Compute predictions using the sigmoid function and update parameters using gradient descent.
+2. Initialize weights, bias, learning rate, and iterations.
+3. Compute predictions using the sigmoid function and update parameters using gradient descent.
 4. Predict placement status and evaluate using accuracy, confusion matrix, and classification report.
 
 ## Program:
